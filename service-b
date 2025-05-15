@@ -1,5 +1,0 @@
-service:
-  name: "Service B - Local Environment"
-student:
-  id: "202135513"
-  name: "김명윤"
